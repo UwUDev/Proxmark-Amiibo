@@ -25,9 +25,24 @@ hf mf eload u amiibo/BOTW/Archer_Link
 hf 14a sim t 7 u 048D5B32784C80
 
 
+*Link
+hf mf eload u amiibo/BOTW/Link
+hf 14a sim t 7 u 04BD7A0AFE3D80
+
+
+*Link (Majora's Mask)
+hf mf eload u amiibo/BOTW/Link_MM
+hf 14a sim t 7 u 04B339DAE94B81
+
+
 *Link (Ocarina of time)
 hf mf eload u amiibo/BOTW/Link_OOT
 hf 14a sim t 7 u 047100F2E94C84
+
+
+*Link (Skyward Sword)
+hf mf eload u amiibo/BOTW/Link_SS
+hf 14a sim t 7 u 04B339DAE94A82
 
 
 *Toon Link
@@ -40,6 +55,16 @@ hf mf eload u amiibo/BOTW/Toon_Zelda
 hf 14a sim t 7 u 04DAB4D2B94C80
 
 
+*Super Smash Bros Link
+hf mf eload u amiibo/BOTW/SSB_Link
+hf 14a sim t 7 u 049A643A124A80
+
+
 *Wolf link
 hf mf eload u amiibo/BOTW/Wolf_Link
+hf 14a sim t 7 u 0491A492754C81
+
+
+*Wolf Link (20 Heart full life)
+hf mf eload u amiibo/BOTW/Wolf_Link_Full
 hf 14a sim t 7 u 0491A492754C81
