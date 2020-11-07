@@ -1,0 +1,45 @@
+####################################################################################
+#             Command : perl tools/pm3_amii_bin2eml.pl xx.bin > xx.eml             #
+####################################################################################
+
+
+
+
+
+
+
+####################################################################################
+#                                                                                  #
+#                       Zelda Breath Of The Wild Collection                        #
+#                                                                                  #
+####################################################################################
+
+
+*8-bit Link
+hf mf eload u amiibo/BOTW/8-BITLink
+hf 14a sim t 7 u 04B339DAE94C80
+
+
+*Archer Link :
+hf mf eload u amiibo/BOTW/Archer_Link
+hf 14a sim t 7 u 048D5B32784C80
+
+
+*Link (Ocarina of time)
+hf mf eload u amiibo/BOTW/Link_OOT
+hf 14a sim t 7 u 047100F2E94C84
+
+
+*Toon Link
+hf mf eload u amiibo/BOTW/Toon_Link
+hf 14a sim t 7 u 04219ADAE94C81
+
+
+*Toon Zelda
+hf mf eload u amiibo/BOTW/Toon_Zelda
+hf 14a sim t 7 u 04DAB4D2B94C80
+
+
+*Wolf link
+hf mf eload u amiibo/BOTW/Wolf_Link
+hf 14a sim t 7 u 0491A492754C81
