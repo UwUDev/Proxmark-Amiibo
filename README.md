@@ -1,6 +1,9 @@
 # Proxmark-Amiibo
 Allow you to emulate the proxmark as amiibo very simply :)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/u5K51puo6JI/0.jpg)](https://www.youtube.com/watch?v=u5K51puo6JI)  
+(this is a video)
+
 ## Installation
 Just dowload the repo and copy it in the root of the Proxmark3.
 
